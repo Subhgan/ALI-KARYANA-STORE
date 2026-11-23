@@ -1,0 +1,42 @@
+product_name,category,brand,price,stock
+Basmati Rice 1kg,Rice,Local,350,50
+Sugar 1kg,Grocery,Local,180,100
+Wheat Flour 10kg,Flour,Local,1200,30
+Cooking Oil 1L,Oil,Dalda,580,40
+Milk 1L,Dairy,Olper's,280,25
+Tea 190g,Beverages,Lipton,450,20
+Red Lentils 1kg,Daal,Local,320,35
+Chickpeas 1kg,Daal,Local,300,30
+Salt 800g,Spices,National,100,60
+Olper 1kg 220
+product_name,category,brand,price,stock
+Basmati Rice 1kg,Rice,Local,350,50
+Sugar 1kg,Grocery,Local,180,100
+Wheat Flour 10kg,Flour,Local,1200,30
+Cooking Oil 1L,Oil,Dalda,580,40
+Olive Oil 1L,Oil,Sufi,650,20
+Milk 1L,Dairy,Olper's,280,25
+Milk 1L,Dairy,MilkPak,290,30
+Tea 190g,Beverages,Lipton,450,20
+Green Tea 100g,Beverages,Local,250,15
+Red Lentils 1kg,Daal,Local,320,35
+Chickpeas 1kg,Daal,Local,300,30
+White Chickpeas 1kg,Daal,Local,320,20
+Red Chilli Powder 100g,Spices,National,180,25
+Turmeric Powder 100g,Spices,National,120,30
+Coriander Powder 100g,Spices,National,130,25
+Garam Masala 100g,Spices,National,220,20
+Black Pepper 50g,Spices,Local,160,15
+Cumin Seeds 100g,Spices,Local,180,20
+Salt 800g,Spices,National,100,60
+Vermicelli 150g,Grocery,Local,80,30
+Macaroni 400g,Grocery,Local,150,25
+Ketchup 500g,Sauces,National,220,15
+Mayonnaise 500g,Sauces,National,350,15
+Biscuits 100g,Snacks,Local,50,50
+Soap 100g,Personal Care,Local,100,40
+Shampoo 180ml,Personal Care,Local,250,20
+Toothpaste 100g,Personal Care,Local,180,25
+Dishwashing Liquid 500ml,Cleaning,Local,200,20
+Laundry Detergent 1kg,Cleaning,Local,300,30
+Eggs 12 pieces,Dairy,Local,360,20

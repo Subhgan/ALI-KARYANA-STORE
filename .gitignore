@@ -1,0 +1,6 @@
+.env
+karyanaenv/
+__pycache__/
+*.pyc
+.vscode/
+desktop.ini
